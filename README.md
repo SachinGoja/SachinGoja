@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Sachin Goja!
+
+Currently learning about android modding
+
+Reach me: "sachingoja9@gmail.com"
 
 <!--
 **SachinGoja/SachinGoja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
